@@ -30,4 +30,5 @@ namespace BatailleNavaleWPF
             GrilleTB.Text = new Grille().ToString();
         }
     }
+    //Signé: Jérémie Roy
 }
